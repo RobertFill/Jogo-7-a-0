@@ -7,6 +7,7 @@ Simulação de escalação das equipes de todas as épocas.
 O 7a0 junta as maiores seleções de todas as Copas do Mundo — de 1950 a 2026 — num só lugar.
 Você sorteia seleções, monta um time dos sonhos cruzando gerações que nunca se enfrentaram e simula um torneio inteiro pra ver se ele faz o 7 a 0.
 É um jogo de futebol, memória e montagem — leve de pegar, viciante de repetir.
+<br>
 <img width="376" height="522" alt="Captura de tela 2026-09-03 200850" src="https://github.com/user-attachments/assets/c344162d-be91-42cc-ad23-d0e90cafc4c2" />
 <br>
 <img width="449" height="190" alt="Captura de tela 2026-09-03 201406" src="https://github.com/user-attachments/assets/018ed790-975c-4c88-961d-b38c93260e69" />
