@@ -7,6 +7,8 @@ O 7a0 junta as maiores seleções de todas as Copas do Mundo — de 1950 a 2026 
 Você sorteia seleções, monta um time dos sonhos cruzando gerações que nunca se enfrentaram e simula um torneio inteiro pra ver se ele faz o 7 a 0.
 É um jogo de futebol, memória e montagem — leve de pegar, viciante de repetir.
 
+<img width="376" height="522" alt="Captura de tela 2026-09-03 200850" src="https://github.com/user-attachments/assets/3a9de7e8-83d2-4fa3-b4ea-7fc8ad701be5" />
+
 ------------------------  Publico alvo  -----------------------
 
 Amantes, saudosistas, e entusiastas.
@@ -29,6 +31,8 @@ JavaScript
 Banco de dados(SEED)
 
 ------------------------  Requisitos para utilização  -----------------------
+
+Link do APP https://7a0.com.br/
 
 Ter internet
 Navegadores:
