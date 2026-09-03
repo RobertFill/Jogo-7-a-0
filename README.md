@@ -42,6 +42,8 @@ JavaScript
 <br>
 Banco de dados(SEED)
 
+< link https://www.flaticon.com/br/icone-gratis/html-5_174854>
+
 ------------------------  Requisitos para utilização  -----------------------
 
 Link do APP https://7a0.com.br/
