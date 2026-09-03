@@ -33,9 +33,13 @@ Cada elenco é montado a partir de quem de fato vestiu a camisa naquela Copa —
 ------------------------  Tecnologias utilizadas  -----------------------
 
 Foi feito em front-End:
+<br>
 HTML5
+<br>
 CSS 3
+<br>
 JavaScript
+<br>
 Banco de dados(SEED)
 
 ------------------------  Requisitos para utilização  -----------------------
@@ -43,11 +47,17 @@ Banco de dados(SEED)
 Link do APP https://7a0.com.br/
 
 Ter internet
+<br>
 Navegadores:
+<br>
 FireFox
+<br>
 Chrone
+<br>
 edge
+<br>
 opera
+<br>
 etc
 
 
