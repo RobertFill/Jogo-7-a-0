@@ -42,9 +42,10 @@ JavaScript
 <br>
 Banco de dados(SEED)
 
+<img width="235" height="258" alt="Captura de tela 2026-09-03 202857" src="https://github.com/user-attachments/assets/eb893238-190e-41f1-ad1c-5788f51685f0" />
+<img width="239" height="273" alt="Captura de tela 2026-09-03 202931" src="https://github.com/user-attachments/assets/61a29f7e-9611-4510-991a-249e8caaba5f" />
+<img width="279" height="265" alt="Captura de tela 2026-09-03 203015" src="https://github.com/user-attachments/assets/dfd79e4c-f6f8-4892-97a9-94a4b61a8b49" />
 
-
-< link rel="icon" type ="https://www.flaticon.com/br/icone-gratis/html-5_174854">
 
 ------------------------  Requisitos para utilização  -----------------------
 
