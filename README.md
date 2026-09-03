@@ -42,7 +42,9 @@ JavaScript
 <br>
 Banco de dados(SEED)
 
-< link https://www.flaticon.com/br/icone-gratis/html-5_174854>
+
+
+< link rel="icon" type ="https://www.flaticon.com/br/icone-gratis/html-5_174854">
 
 ------------------------  Requisitos para utilização  -----------------------
 
