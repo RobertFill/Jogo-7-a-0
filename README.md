@@ -70,9 +70,15 @@ etc
 
 Chavozika4
 --------------------------*---------
+------------------------ Nomes do grupo----
+<br>
 Filipe Robert Soares
+<br>
 Juan Pablo Camilo dos Santos
+<br>
 Arthur arias da silva
+<br>
 Gerson Siqueira
+<br>
 Herlon Verissimo
 
