@@ -69,5 +69,10 @@ etc
 ------------------------  Autores -----------------------
 
 Chavozika4
-
+--------------------------*---------
+Filipe Robert Soares
+Juan Pablo Camilo dos Santos
+Arthur arias da silva
+Gerson Siqueira
+Herlon Verissimo
 
